@@ -61,6 +61,10 @@ The following technologies and tools were used in this analysis:
 - Applied **NumPy operations** to improve numerical processing efficiency.
 - Optimized grouping, filtering, and transformation functions to handle large datasets effectively.
 
+### 6️⃣ Data Visualisation with Matplotlib & Seaborn
+- **Bar Charts & Histograms**: Displayed the distribution of ratings and review counts.
+- **Time-Series Plots**: Analyzed sentiment trends over time.
+
 ## 📌 Implementation Steps
 ### Prerequisites
 Ensure you have the following installed:
@@ -82,7 +86,7 @@ Ensure you have the following installed:
    ```bash
    jupyter notebook
    ```
-4. Open the `bda-miniproject.ipynb` file and execute the cells.
+4. Open the `Amazon-food-reviews-dataset-analysis.ipynb` file and execute the cells.
 
 ## 📈 Results & Insights
 - **Sentiment Breakdown:**
@@ -94,20 +98,8 @@ Ensure you have the following installed:
 - **Temporal Trends:** Variations in sentiment over different years.
 - **Optimized Processing:** Efficient use of Pandas and NumPy reduced data processing time.
 
-## 🚀 Future Enhancements
-- Implement **deep learning models (LSTMs, Transformers)** for better sentiment classification.
-- Develop an **interactive dashboard** for real-time visualization of review trends.
-- Improve **topic modeling** using **Latent Dirichlet Allocation (LDA)**.
-- Apply **aspect-based sentiment analysis** to analyze customer sentiment towards specific product attributes.
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
-## 🤝 Contributing
-We welcome contributions! Feel free to fork this repository, raise issues, and submit pull requests.
-
 ## 📞 Contact
-For queries or collaboration, reach out via **[your email]** or open an issue in this repository.
+For queries or collaboration, reach out to [jsmehta21](https://github.com/jsmehta21)
 
 ---
 ⭐ If you found this project useful, please consider **starring** this repository!

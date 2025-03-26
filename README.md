@@ -98,6 +98,11 @@ Ensure you have the following installed:
 - **Temporal Trends:** Variations in sentiment over different years.
 - **Optimized Processing:** Efficient use of Pandas and NumPy reduced data processing time.
 
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/2cbe69f8-c6f0-4775-a4c6-c019cbbd893d)
+![image](https://github.com/user-attachments/assets/c882aef9-b103-42be-b505-0b050b09f70e)
+![image](https://github.com/user-attachments/assets/cfbfb6a3-06f5-4da9-a3b0-2a34ef2b3745)
+
 ## 📞 Contact
 For queries or collaboration, reach out to [jsmehta21](https://github.com/jsmehta21)
 
